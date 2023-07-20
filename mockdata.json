@@ -1,0 +1,602 @@
+[{
+    "company": "Oracle",
+    "position": "Backend developer",
+    "jobLocation": "Bhopal",
+    "jobType": "remote",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-06-23T16:06:59Z"
+  }, {
+    "company": "Infosys",
+    "position": "Cyber security engineerr",
+    "jobLocation": "Kolkata",
+    "jobType": "remote",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-03-03T10:42:49Z"
+  }, {
+    "company": "Hexaware ltd.",
+    "position": "Full-stack developer",
+    "jobLocation": "Bengaluru",
+    "jobType": "full-time",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-10-25T16:23:58Z"
+  }, {
+    "company": "Oracle",
+    "position": "SDE-1",
+    "jobLocation": "Gurugram",
+    "jobType": "part-time",
+    "status": "pending",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-02-25T04:58:24Z"
+  }, {
+    "company": "Sonata software",
+    "position": "Cyber security engineerr",
+    "jobLocation": "Ludhiyana",
+    "jobType": "remote",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-10-15T00:49:27Z"
+  }, {
+    "company": "Cognizant",
+    "position": "Reactjs developer",
+    "jobLocation": "Gurugram",
+    "jobType": "part-time",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-02-23T21:23:00Z"
+  }, {
+    "company": "Accenture",
+    "position": "Software Developer",
+    "jobLocation": "Ranchi",
+    "jobType": "full-time",
+    "status": "pending",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-05-19T01:50:13Z"
+  }, {
+    "company": "Sonata software",
+    "position": "SDE-2",
+    "jobLocation": "Amritsar",
+    "jobType": "full-time",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-12-04T00:28:33Z"
+  }, {
+    "company": "Microsoft",
+    "position": "Python developer",
+    "jobLocation": "Faridabad",
+    "jobType": "part-time",
+    "status": "pending",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-05-11T18:00:16Z"
+  }, {
+    "company": "Uber",
+    "position": "Python developer",
+    "jobLocation": "Indore",
+    "jobType": "remote",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-01-11T06:48:08Z"
+  }, {
+    "company": "Hexaware ltd.",
+    "position": "Cyber security engineerr",
+    "jobLocation": "Pune",
+    "jobType": "remote",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-04-28T00:54:33Z"
+  }, {
+    "company": "Accenture",
+    "position": "Reactjs developer",
+    "jobLocation": "Amritsar",
+    "jobType": "part-time",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-03-11T14:33:58Z"
+  }, {
+    "company": "Tata Consultancy Services",
+    "position": "Full-stack developer",
+    "jobLocation": "Greater Noida",
+    "jobType": "remote",
+    "status": "pending",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-08-02T13:31:16Z"
+  }, {
+    "company": "Trigyan Technologies",
+    "position": "Backend developer",
+    "jobLocation": "Lucknow",
+    "jobType": "part-time",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-01-28T04:35:52Z"
+  }, {
+    "company": "L&T ltd",
+    "position": "Python developer",
+    "jobLocation": "Mumbai",
+    "jobType": "full-time",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-05-21T07:58:33Z"
+  }, {
+    "company": "Eclerx",
+    "position": "Cyber security engineerr",
+    "jobLocation": "Meerut",
+    "jobType": "full-time",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-03-01T22:22:12Z"
+  }, {
+    "company": "Oracle",
+    "position": "SDE-1",
+    "jobLocation": "Faridabad",
+    "jobType": "remote",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-10-26T19:45:13Z"
+  }, {
+    "company": "Uber",
+    "position": "Devops engineer",
+    "jobLocation": "Amritsar",
+    "jobType": "full-time",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-03-19T08:39:19Z"
+  }, {
+    "company": "Tata Consultancy Services",
+    "position": "Data scientist",
+    "jobLocation": "Indore",
+    "jobType": "part-time",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-07-28T05:20:51Z"
+  }, {
+    "company": "Uber",
+    "position": "SDE-2",
+    "jobLocation": "Ranchi",
+    "jobType": "part-time",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-02-08T16:40:06Z"
+  }, {
+    "company": "Wipro limited",
+    "position": "web developer",
+    "jobLocation": "Meerut",
+    "jobType": "remote",
+    "status": "pending",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-03-31T06:10:08Z"
+  }, {
+    "company": "Eclerx",
+    "position": "Full-stack developer",
+    "jobLocation": "Gurugram",
+    "jobType": "full-time",
+    "status": "pending",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-05-18T15:14:01Z"
+  }, {
+    "company": "ITC infotech",
+    "position": "Python developer",
+    "jobLocation": "Jodhpur",
+    "jobType": "full-time",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-01-05T12:02:52Z"
+  }, {
+    "company": "Tata Consultancy Services",
+    "position": "Frontend developer",
+    "jobLocation": "Chandigarh",
+    "jobType": "remote",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-06-09T06:38:49Z"
+  }, {
+    "company": "Oracle",
+    "position": "Backend developer",
+    "jobLocation": "Bengaluru",
+    "jobType": "remote",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-07-26T10:16:02Z"
+  }, {
+    "company": "Tech Mahindra",
+    "position": "Java developer",
+    "jobLocation": "Bhopal",
+    "jobType": "remote",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-11-05T01:57:48Z"
+  }, {
+    "company": "Hexaware ltd.",
+    "position": "web developer",
+    "jobLocation": "Jammu",
+    "jobType": "part-time",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-05-19T10:01:53Z"
+  }, {
+    "company": "Trigyan Technologies",
+    "position": "Backend developer",
+    "jobLocation": "Amritsar",
+    "jobType": "remote",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-06-18T09:38:46Z"
+  }, {
+    "company": "Hexaware ltd.",
+    "position": "Network engineer",
+    "jobLocation": "Dehradun",
+    "jobType": "part-time",
+    "status": "pending",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-08-02T16:28:31Z"
+  }, {
+    "company": "Google",
+    "position": "Frontend developer",
+    "jobLocation": "Chandigarh",
+    "jobType": "remote",
+    "status": "pending",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-09-07T14:47:01Z"
+  }, {
+    "company": "Uber",
+    "position": "Data scientist",
+    "jobLocation": "Kochi",
+    "jobType": "part-time",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-12-12T18:34:54Z"
+  }, {
+    "company": "Trigyan Technologies",
+    "position": "Python developer",
+    "jobLocation": "Ludhiyana",
+    "jobType": "internship",
+    "status": "pending",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-06-02T04:36:24Z"
+  }, {
+    "company": "Microsoft",
+    "position": "MERN stack Engineer",
+    "jobLocation": "Noida",
+    "jobType": "part-time",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-12-21T10:43:07Z"
+  }, {
+    "company": "Oracle",
+    "position": "Data scientist",
+    "jobLocation": "Amritsar",
+    "jobType": "remote",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-01-15T16:14:10Z"
+  }, {
+    "company": "IBM",
+    "position": "Cyber security engineerr",
+    "jobLocation": "Kolkata",
+    "jobType": "part-time",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-03-11T18:19:03Z"
+  }, {
+    "company": "Rolta",
+    "position": "SDE-1",
+    "jobLocation": "Bhopal",
+    "jobType": "part-time",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-10-12T11:08:02Z"
+  }, {
+    "company": "Infosys",
+    "position": "Devops engineer",
+    "jobLocation": "Amritsar",
+    "jobType": "remote",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-07-04T21:17:16Z"
+  }, {
+    "company": "IBM",
+    "position": "Reactjs developer",
+    "jobLocation": "Greater Noida",
+    "jobType": "part-time",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-02-07T15:05:40Z"
+  }, {
+    "company": "Cognizant",
+    "position": "Cloud engineer",
+    "jobLocation": "Ranchi",
+    "jobType": "remote",
+    "status": "pending",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-10-23T20:40:10Z"
+  }, {
+    "company": "Wipro limited",
+    "position": "Backend developer",
+    "jobLocation": "Delhi",
+    "jobType": "full-time",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-11-25T03:38:35Z"
+  }, {
+    "company": "Microsoft",
+    "position": "Network engineer",
+    "jobLocation": "Greater Noida",
+    "jobType": "part-time",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-06-26T05:19:13Z"
+  }, {
+    "company": "Uber",
+    "position": "Reactjs developer",
+    "jobLocation": "Mumbai",
+    "jobType": "remote",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-09-29T02:00:26Z"
+  }, {
+    "company": "Capgemini",
+    "position": "Reactjs developer",
+    "jobLocation": "Kolkata",
+    "jobType": "full-time",
+    "status": "pending",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-04-05T03:17:20Z"
+  }, {
+    "company": "L&T ltd",
+    "position": "SDE-1",
+    "jobLocation": "Patna",
+    "jobType": "remote",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-04-07T01:59:37Z"
+  }, {
+    "company": "Oracle",
+    "position": "Associate software developer",
+    "jobLocation": "Ranchi",
+    "jobType": "internship",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-03-17T13:03:43Z"
+  }, {
+    "company": "Eclerx",
+    "position": "Full-stack developer",
+    "jobLocation": "Chennai",
+    "jobType": "remote",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-03-30T13:18:06Z"
+  }, {
+    "company": "Google",
+    "position": "Associate software developer",
+    "jobLocation": "Patna",
+    "jobType": "part-time",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-12-12T14:56:46Z"
+  }, {
+    "company": "Cognizant",
+    "position": "SDE-1",
+    "jobLocation": "Faridabad",
+    "jobType": "internship",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-06-27T09:25:36Z"
+  }, {
+    "company": "Tata Consultancy Services",
+    "position": "Cloud engineer",
+    "jobLocation": "Mysore",
+    "jobType": "remote",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-10-18T22:13:26Z"
+  }, {
+    "company": "Rolta",
+    "position": "Backend developer",
+    "jobLocation": "Jaipur",
+    "jobType": "remote",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-10-08T15:30:53Z"
+  }, {
+    "company": "L&T ltd",
+    "position": "Cloud engineer",
+    "jobLocation": "Mysore",
+    "jobType": "part-time",
+    "status": "pending",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-07-23T10:01:12Z"
+  }, {
+    "company": "IBM",
+    "position": "web developer",
+    "jobLocation": "Dehradun",
+    "jobType": "part-time",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-06-08T00:41:12Z"
+  }, {
+    "company": "Infosys",
+    "position": "Cloud engineer",
+    "jobLocation": "Chandigarh",
+    "jobType": "internship",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-03-18T13:45:03Z"
+  }, {
+    "company": "Tech Mahindra",
+    "position": "JavaScript engineer",
+    "jobLocation": "Mumbai",
+    "jobType": "full-time",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-08-04T19:39:08Z"
+  }, {
+    "company": "Capgemini",
+    "position": "Data scientist",
+    "jobLocation": "Faridabad",
+    "jobType": "full-time",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-05-14T19:54:54Z"
+  }, {
+    "company": "Cognizant",
+    "position": "Network engineer",
+    "jobLocation": "Greater Noida",
+    "jobType": "full-time",
+    "status": "pending",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-11-15T06:51:34Z"
+  }, {
+    "company": "Hexaware ltd.",
+    "position": "Devops engineer",
+    "jobLocation": "Delhi",
+    "jobType": "full-time",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-01-30T07:31:57Z"
+  }, {
+    "company": "Google",
+    "position": "SDE-2",
+    "jobLocation": "Jodhpur",
+    "jobType": "remote",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-01-31T15:41:40Z"
+  }, {
+    "company": "Trigyan Technologies",
+    "position": "Network engineer",
+    "jobLocation": "Delhi",
+    "jobType": "remote",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-08-28T23:36:25Z"
+  }, {
+    "company": "BirlaSoft",
+    "position": "Cloud engineer",
+    "jobLocation": "Patna",
+    "jobType": "internship",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-10-17T02:20:30Z"
+  }, {
+    "company": "BirlaSoft",
+    "position": "Cyber security engineerr",
+    "jobLocation": "Jammu",
+    "jobType": "full-time",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-07-09T08:00:24Z"
+  }, {
+    "company": "Infosys",
+    "position": "Network engineer",
+    "jobLocation": "Faridabad",
+    "jobType": "part-time",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-07-13T19:59:53Z"
+  }, {
+    "company": "Hexaware ltd.",
+    "position": "Cloud engineer",
+    "jobLocation": "Lucknow",
+    "jobType": "remote",
+    "status": "pending",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-03-10T17:27:23Z"
+  }, {
+    "company": "Meta",
+    "position": "MERN stack Engineer",
+    "jobLocation": "Pune",
+    "jobType": "full-time",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-03-21T05:16:35Z"
+  }, {
+    "company": "Eclerx",
+    "position": "Software Developer",
+    "jobLocation": "Indore",
+    "jobType": "full-time",
+    "status": "pending",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-05-09T17:33:43Z"
+  }, {
+    "company": "Infosys",
+    "position": "Network engineer",
+    "jobLocation": "Pune",
+    "jobType": "internship",
+    "status": "pending",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-11-04T05:09:04Z"
+  }, {
+    "company": "BirlaSoft",
+    "position": "JavaScript engineer",
+    "jobLocation": "Bhopal",
+    "jobType": "internship",
+    "status": "pending",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-12-20T02:56:40Z"
+  }, {
+    "company": "Tech Mahindra",
+    "position": "web developer",
+    "jobLocation": "Mumbai",
+    "jobType": "part-time",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-12-05T01:57:01Z"
+  }, {
+    "company": "IBM",
+    "position": "Data scientist",
+    "jobLocation": "Jaipur",
+    "jobType": "part-time",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-11-06T04:00:38Z"
+  }, {
+    "company": "Eclerx",
+    "position": "SDE-1",
+    "jobLocation": "Amritsar",
+    "jobType": "part-time",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-03-12T23:25:23Z"
+  }, {
+    "company": "ITC infotech",
+    "position": "Cloud engineer",
+    "jobLocation": "Bhopal",
+    "jobType": "full-time",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2022-09-01T13:01:57Z"
+  }, {
+    "company": "ITC infotech",
+    "position": "Cloud engineer",
+    "jobLocation": "Mumbai",
+    "jobType": "internship",
+    "status": "declined",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-04-11T10:47:30Z"
+  }, {
+    "company": "HCL Technologies",
+    "position": "Frontend developer",
+    "jobLocation": "Lucknow",
+    "jobType": "remote",
+    "status": "interview",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-06-22T03:30:30Z"
+  }, {
+    "company": "Infosys",
+    "position": "Network engineer",
+    "jobLocation": "Pune",
+    "jobType": "part-time",
+    "status": "pending",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-02-13T21:46:18Z"
+  }, {
+    "company": "Capgemini",
+    "position": "Data scientist",
+    "jobLocation": "Faridabad",
+    "jobType": "part-time",
+    "status": "pending",
+    "createdBy": "64b650ef712af107487752ca",
+    "createdAt": "2023-05-26T18:05:39Z"
+  }]
+  
